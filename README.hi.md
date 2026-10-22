@@ -5,29 +5,29 @@ permalink: /hi/
 lang: hi
 ---
 
-# [SDXL Container](https://github.com/europanite/sdxl_container "A Docker Container to train SDXL LoRA adapters and run SDXL inference")
+# [SDXL Container](https://github.com/europanite/sdxl-container "A Docker Container to train SDXL LoRA adapters and run SDXL inference")
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python](https://img.shields.io/badge/python-3.10%20|%203.11|%203.12|%203.13|%203.14-blue)](https://www.python.org/)
 ![OS](https://img.shields.io/badge/OS-Linux%20%7C%20macOS%20%7C%20Windows-blue)
 
-[![CI](https://github.com/europanite/sdxl_container/actions/workflows/ci.yml/badge.svg)](https://github.com/europanite/sdxl_container/actions/workflows/ci.yml)
-[![CodeQL Advanced](https://github.com/europanite/sdxl_container/actions/workflows/codeql.yml/badge.svg)](https://github.com/europanite/sdxl_container/actions/workflows/codeql.yml)
-[![Pytest](https://github.com/europanite/sdxl_container/actions/workflows/pytest.yml/badge.svg)](https://github.com/europanite/sdxl_container/actions/workflows/pytest.yml)
-[![Python Lint](https://github.com/europanite/sdxl_container/actions/workflows/lint.yml/badge.svg)](https://github.com/europanite/sdxl_container/actions/workflows/lint.yml)
-[![pages](https://github.com/europanite/sdxl_container/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/europanite/sdxl_container/actions/workflows/pages/pages-build-deployment)
+[![CI](https://github.com/europanite/sdxl-container/actions/workflows/ci.yml/badge.svg)](https://github.com/europanite/sdxl-container/actions/workflows/ci.yml)
+[![CodeQL Advanced](https://github.com/europanite/sdxl-container/actions/workflows/codeql.yml/badge.svg)](https://github.com/europanite/sdxl-container/actions/workflows/codeql.yml)
+[![Pytest](https://github.com/europanite/sdxl-container/actions/workflows/pytest.yml/badge.svg)](https://github.com/europanite/sdxl-container/actions/workflows/pytest.yml)
+[![Python Lint](https://github.com/europanite/sdxl-container/actions/workflows/lint.yml/badge.svg)](https://github.com/europanite/sdxl-container/actions/workflows/lint.yml)
+[![pages](https://github.com/europanite/sdxl-container/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/europanite/sdxl-container/actions/workflows/pages/pages-build-deployment)
 
 
 <p align="right">
-  <a href="https://europanite.github.io/sdxl_container/">🇺🇸 English</a> |
-  <a href="https://europanite.github.io/sdxl_container/hi/">🇮🇳 हिंदी</a> |
-  <a href="https://europanite.github.io/sdxl_container/ja/">🇯🇵 日本語</a> |
-  <a href="https://europanite.github.io/sdxl_container/zh-CN/">🇨🇳 简体中文</a> |
-  <a href="https://europanite.github.io/sdxl_container/es/">🇪🇸 Español</a> |
-  <a href="https://europanite.github.io/sdxl_container/pt-BR/">🇧🇷 Português (Brasil)</a> |
-  <a href="https://europanite.github.io/sdxl_container/ko/">🇰🇷 한국어</a> |
-  <a href="https://europanite.github.io/sdxl_container/de/">🇩🇪 Deutsch</a> |
-  <a href="https://europanite.github.io/sdxl_container/fr/">🇫🇷 Français</a>
+  <a href="https://europanite.github.io/sdxl-container/">🇺🇸 English</a> |
+  <a href="https://europanite.github.io/sdxl-container/hi/">🇮🇳 हिंदी</a> |
+  <a href="https://europanite.github.io/sdxl-container/ja/">🇯🇵 日本語</a> |
+  <a href="https://europanite.github.io/sdxl-container/zh-CN/">🇨🇳 简体中文</a> |
+  <a href="https://europanite.github.io/sdxl-container/es/">🇪🇸 Español</a> |
+  <a href="https://europanite.github.io/sdxl-container/pt-BR/">🇧🇷 Português (Brasil)</a> |
+  <a href="https://europanite.github.io/sdxl-container/ko/">🇰🇷 한국어</a> |
+  <a href="https://europanite.github.io/sdxl-container/de/">🇩🇪 Deutsch</a> |
+  <a href="https://europanite.github.io/sdxl-container/fr/">🇫🇷 Français</a>
 </p>
 
 
