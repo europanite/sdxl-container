@@ -1,6 +1,6 @@
-title: "sdxl_container"
+title: "sdxl-container"
 description: "A docker container to train SDXL LoRA adapters and run SDXL inference"
-baseurl: "/sdxl_container"
+baseurl: "/sdxl-container"
 url: "https://europanite.github.io"
 theme: minima
 markdown: kramdown
